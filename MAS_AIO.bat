@@ -1,5 +1,5 @@
 @::03938c58-ded9-4e95-b879-cb81e3e77c93
-@set masver=2.7
+@set masver=V1
 @setlocal DisableDelayedExpansion
 @echo off
 
@@ -10225,3 +10225,4 @@ if ($appIdsList.Count -gt 0) {
 
 ::========================================================================================================================================
 :: Leave empty line below
+
